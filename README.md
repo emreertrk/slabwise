@@ -15,7 +15,7 @@
 
 Bir Pokémon kartının fotoğrafını yüklersiniz. Slabwise kartı fotoğrafta bulur, düzeltir, 21.982 İngilizce kart arasından en olası 5 adayı gösterir. Kartınızı seçip dereceyi (PSA tarzı 1–10) belirlediğinizde tahmini fiyatı ve fiyat aralığını EUR cinsinden verir.
 
-Bu depo bir Veri Analitiği bitirme projesidir.
+Bu depo bir Veri Analitiği bitirme projesidir. Yöntem, sonuçlar ve sınırlılıkların ayrıntısı [proje raporunda](docs/Slabwise_Rapor.pdf) yer alır.
 
 ![Slabwise arayüzü](docs/arayuz.png)
 
@@ -108,7 +108,7 @@ Komutlar proje kökünden çalıştırılır.
 | `tests/` | Birim testleri |
 | `outputs/` | Çarpan tabloları ve model metrikleri |
 | `eval_det_out/`, `eval_out/` | Kaggle'da üretilen değerlendirme sonuçları |
-| `docs/` | Lisans ve atıf tablosu, ekran görüntüsü |
+| `docs/` | Proje raporu, lisans ve atıf tablosu, ekran görüntüsü |
 
 ## Sınırlılıklar
 
