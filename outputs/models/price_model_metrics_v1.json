@@ -1,0 +1,14 @@
+{
+  "r2_log": 0.8924,
+  "r2_eur": 0.2355,
+  "egitim_kart": 10222,
+  "dogrulama_kart": 2556,
+  "model_mae_eur": 14.622,
+  "model_medyan_mutlak_yuzde_hata": 0.369,
+  "model_2x_icinde_orani": 0.735,
+  "taban_set_medyani_mae_eur": 20.036,
+  "taban_set_medyani_medyan_mutlak_yuzde_hata": 0.925,
+  "taban_set_medyani_2x_icinde_orani": 0.368,
+  "aralik_log_q25": -0.4003,
+  "aralik_log_q75": 0.3266
+}

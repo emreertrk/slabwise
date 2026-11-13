@@ -1,0 +1,11 @@
+paths:
+  data: data
+  jyesr: data/jyesr
+  tcgdex: data/tcgdex
+  justtcg_raw: data/raw
+  roboflow: data/roboflow
+  outputs: outputs
+eras: ["<2000", "2000-09", "2010-19", "2020-22", "2023+"]
+justtcg:
+  daily_cap: 80
+  sleep_seconds: 7

@@ -1,0 +1,23 @@
+{
+  "r2_log": 0.9049,
+  "r2_eur": 0.2963,
+  "egitim_kart": 10222,
+  "dogrulama_kart": 2556,
+  "ozellik_sayisi": 40,
+  "model_mae_eur": 13.486,
+  "model_medyan_mutlak_yuzde_hata": 0.34,
+  "model_2x_icinde_orani": 0.77,
+  "taban_set_medyani_mae_eur": 20.036,
+  "taban_set_medyani_medyan_mutlak_yuzde_hata": 0.925,
+  "taban_set_medyani_2x_icinde_orani": 0.368,
+  "alt100_kart": 2464,
+  "alt100_medyan_mutlak_yuzde_hata": 0.332,
+  "alt100_2x_icinde_orani": 0.781,
+  "ust100_kart": 92,
+  "ust100_medyan_mutlak_yuzde_hata": 0.57,
+  "aralik_hedef_kapsama": 0.8,
+  "aralik_gercek_kapsama": 0.801,
+  "aralik_gercek_kapsama_alt100": 0.806,
+  "aralik_log_q25": -0.3706,
+  "aralik_log_q75": 0.31
+}

@@ -1,0 +1,19 @@
+{
+  "n": 243,
+  "baseline": {
+    "mean_px": 24.154756658361773,
+    "median_px": 11.360112190246582,
+    "share_under_5px": 0.1440329218106996,
+    "share_under_10px": 0.4732510288065844,
+    "share_under_20px": 0.7119341563786008
+  },
+  "refined": {
+    "mean_px": 23.196593624574167,
+    "median_px": 13.489862442016602,
+    "share_under_5px": 0.07818930041152264,
+    "share_under_10px": 0.345679012345679,
+    "share_under_20px": 0.6502057613168725
+  },
+  "refine_success_rate": 1.0,
+  "quad_rate": 1.0
+}

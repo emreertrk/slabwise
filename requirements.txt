@@ -1,0 +1,14 @@
+numpy
+pandas
+pillow
+opencv-python
+scikit-learn
+joblib
+lightgbm
+torch
+torchvision
+timm
+transformers
+easyocr
+streamlit
+pyyaml
